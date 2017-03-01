@@ -1,0 +1,1 @@
+nheqminer_suprnova.exe -l zec -u nickname12250.rush4 -p y6u7i8o9p0 -t 4

@@ -1,4 +1,4 @@
-package ru.Rush12250.homework;
+package ru.mymane-master.homework;
 
 import java.util.Arrays;
 
